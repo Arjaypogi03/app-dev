@@ -4,9 +4,6 @@
 
 My first repository
 
-# Learn about Peaky blinders here.
-
-**By Arjay C. Malaluan**   **Posted: May 10, 2025**
 
 # Favorite Series: Peaky Blinders
 ![Peaky Blinders](https://th.bing.com/th/id/OIP.cLnIaUgF3kg39nFJGJH0iwHaEM?cb=iwc1&rs=1&pid=ImgDetMain)
@@ -38,7 +35,7 @@ The inner workings of Shelby family dynamics—love, deception, and confrontatio
 
 ## Rating
 ⭐️⭐️⭐️⭐️⭐️ (5/5)
-
+**By Arjay C. Malaluan**   **Posted: May 10, 2025**
 ---
 
 [Learn more about Peaky Blinders](https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series))
