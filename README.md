@@ -35,6 +35,7 @@ The inner workings of Shelby family dynamics—love, deception, and confrontatio
 
 ## Rating
 ⭐️⭐️⭐️⭐️⭐️ (5/5)
+
 ---
 
 **By Arjay C. Malaluan**   **Posted: May 10, 2025**
