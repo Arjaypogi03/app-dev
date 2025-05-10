@@ -4,8 +4,6 @@
 
 My first repository
 
----
-
 # Learn about Peaky blinders here.
 **By Arjay C. Malaluan**   **Posted: May 10, 2025**
 # Favorite Series: Peaky Blinders
