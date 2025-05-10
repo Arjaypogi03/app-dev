@@ -1,6 +1,6 @@
-#                                                 The Lipa Times
+#app-dev
 My first repository
-# Favorite Series: Peaky Blinders
+################################Favorite Series: Peaky Blinders
 ![Peaky Blinders](https://th.bing.com/th/id/OIP.cLnIaUgF3kg39nFJGJH0iwHaEM?cb=iwc1&rs=1&pid=ImgDetMain)
 
 **Peaky Blinders** is a British crime drama television series set in post-World War I in Birmingham, England, the story follows a war veteran named Thomas Shelby also known as Tommy Shelby who after the war became a entrepreneur leading his gang composed of his family, the Peaky Blinders.
