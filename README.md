@@ -35,8 +35,10 @@ The inner workings of Shelby family dynamics—love, deception, and confrontatio
 
 ## Rating
 ⭐️⭐️⭐️⭐️⭐️ (5/5)
-**By Arjay C. Malaluan**   **Posted: May 10, 2025**
 ---
+
+**By Arjay C. Malaluan**   **Posted: May 10, 2025**
+
 
 [Learn more about Peaky Blinders](https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series))
 
